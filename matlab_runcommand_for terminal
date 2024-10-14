@@ -1,0 +1,1 @@
+ nohup matlab -nodisplay -nosplash -singleCompThread -batch "run('gillespie_whole_AC_RC_pulse.m')" > output &
