@@ -1,2 +1,12 @@
 The project aims to use gillespie algorithm to show different gene expression patterns arising from various enhancer-promoter regulatory mechanisms.
-The matlab file is the code to apply gillespie algorithm for the E-P interaction model and the python script is useful in calculating gene expression level from the cluster size and also calculates noise arising from multiple enhancers.
+
+##Gillespie_.m code:
+Matlab code to implement the E-P interaction model with activator and repressor dynmics.
+
+##Gene_expression.ipynb
+Jupyter notebook script to calculate promoter condensate size and noise in the system.
+
+##heatplot_AC.m
+Matlab code to plot heat map of peak ratio of bimodal and unimodal regions with different parameters.
+
+
