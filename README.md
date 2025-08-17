@@ -1,12 +1,12 @@
 The project aims to use gillespie algorithm to show different gene expression patterns arising from various enhancer-promoter regulatory mechanisms.
 
-##Gillespie_.m code:
+###Gillespie_.m code:
 Matlab code to implement the E-P interaction model with activator and repressor dynmics.
 
-##Gene_expression.ipynb
+###Gene_expression.ipynb
 Jupyter notebook script to calculate promoter condensate size and noise in the system.
 
-##heatplot_AC.m
+###heatplot_AC.m
 Matlab code to plot heat map of peak ratio of bimodal and unimodal regions with different parameters.
 
 
